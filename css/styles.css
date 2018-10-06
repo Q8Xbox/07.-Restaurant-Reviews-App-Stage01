@@ -154,7 +154,7 @@ nav h1 a {
   min-height: 380px;
   padding: 0 0 15px;
   text-align: left;
-  max-width: 85%;
+  width: 270px;
 }
 #restaurants-list .restaurant-img {
   background-color: #ccc;
@@ -173,8 +173,6 @@ nav h1 a {
   line-height: 1.3;
   margin: 20px 0 10px;
   text-transform: uppercase;
-  padding: 0 20px;
-  height: 25px;
 }
 #restaurants-list p {
   font-size: 1.1em;
